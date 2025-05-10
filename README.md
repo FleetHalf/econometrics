@@ -33,7 +33,7 @@ Feel free to:
 - Contribute with better simulations or solutions  
 - Share learning strategies
 
-You can reach out to me on **[LinkedIn]** if you'd like to connect, collaborate, or simply share your thoughts.
+> You can reach out to me on **LinkedIn** if you'd like to connect, collaborate, or simply share your thoughts.
 
 ---
 
